@@ -1,8 +1,11 @@
 
 <div align="center">
-<a href="https://devops-factory.com" >
-  <img src="https://devops-factory.com/images/logott.png" width="250" alt="DevOps Factory">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://devops-factory.com/images/logottw.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://devops-factory.com/images/logott.png">
+  <img alt="DevOps Factory" src="https://devops-factory.com/images/logott.png" width="250">
+</picture>
+
 </div>
 <div align="center">
     <a style="vertical-align: middle;display: inline-block;">
