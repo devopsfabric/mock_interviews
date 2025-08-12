@@ -34,5 +34,6 @@
 ## 📌 Содержание
 - [Разбор вопросов на позицию Junior DevOps](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_1.md)
 - [Разбор вопросов на позицию Junior DevOps ](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md)
-- [Разбор вопосов на позицию Middle DevOps](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md)
+- [Разбор вопросов на позицию Middle DevOps](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md)
 - [Разбор вопросов на позицию Junior DevOps](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_5.md)
+- [Разбор вопросов на позицию Junior DevOps](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_6.md)
