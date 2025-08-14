@@ -30,12 +30,9 @@
 В начале каждого разбора есть **содержание** по темам, которые обсуждались на собеседовании.
 
 ## 📌 Содержание
-<ol style="list-style-position: inside; text-align: center;">
-  <li><a href="https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_1.md">Разбор вопросов на позицию Junior DevOps (Часть 1)</a></li>
-  <li><a href="https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md">Разбор вопросов на позицию Junior DevOps (Часть 3)</a></li>
-  <li><a href="https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md">Разбор вопросов на позицию Middle DevOps (Часть 4)</a></li>
-  <li><a href="https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_5.md">Разбор вопросов на позицию Junior DevOps (Часть 5)</a></li>
-  <li><a href="https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_6.md">Разбор вопросов на позицию Junior DevOps (Часть 6)</a></li>
-  <li><a href="https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_7.md">Разбор вопросов на позицию Junior DevOps (Часть 7)</a></li>
-</ol>
-
+1. [Разбор вопросов на позицию Junior DevOps (Часть 1)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_1.md)
+2. [Разбор вопросов на позицию Junior DevOps (Часть 3)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md)
+3. [Разбор вопросов на позицию Middle DevOps (Часть 4)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_3.md)
+4. [Разбор вопросов на позицию Junior DevOps (Часть 5)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_5.md)
+5. [Разбор вопросов на позицию Junior DevOps (Часть 6)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_6.md)
+6. [Разбор вопросов на позицию Junior DevOps (Часть 7)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_7.md)
