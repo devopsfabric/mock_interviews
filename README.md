@@ -41,4 +41,4 @@
 9. [Разбор вопросов на позицию Middle DevOps (Часть 10)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_10.md)
 10. [Разбор вопросов на позицию Junior DevOps (Часть 11)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_11.md)
 11. [Разбор вопросов на позицию Middle DevOps (Часть 12)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_12.md)
-12. [Разбор вопросов на позицию Middle DevOps (Часть 13)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_13.md)
+12. [Разбор вопросов на позицию Junior DevOps (Часть 13)](https://github.com/devopsfabric/mock_interviews/blob/main/interview_devops_13.md)
